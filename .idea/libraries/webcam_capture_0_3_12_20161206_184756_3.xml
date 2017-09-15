@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="webcam-capture-0.3.12-20161206.184756-3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/webcam-capture-0.3.12-20161206.184756-3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25/slf4j-log4j12-1.7.25.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/apache-log4j-1.2.17/log4j-1.2.17.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/bridj-0.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
